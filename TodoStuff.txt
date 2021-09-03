@@ -1,0 +1,7 @@
+1) Check fonts with weights and line heights etc. everywhere
+2) Align the div logo in header properly
+3) Fix the responsiveness of the header
+4) Global font to body not being applied
+5) Fix hr in side nav bar
+6) For the text inside div check if we can wrap them in elements like p, h1, h2 or etc.
+7) implement the status for the orders
